@@ -1,2 +1,2 @@
 # ML_Project
-I have developed this Diabetes Prediction Web Application using Anaconda distribution based on Machine Learning.
+I have developed this Diabetes Prediction Web Application based on Machine Learning using Anaconda, a Python Distribution.
